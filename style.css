@@ -23,11 +23,13 @@
     font-size: 2rem;
     padding: 1rem;
 }
-main{
+.main{
     padding:1rem;
-    margin-top: 5rem;
+
     box-sizing:border-box;
     display: block;
+    margin:auto;
+    margin-top: 5rem;
 }
 #btn-translate{
     margin :auto;
@@ -57,7 +59,6 @@ main{
 }
 .footer{
     background-color: yellow;
-    position: fixed;
     bottom: 0%;
     width: 100%;
     text-align: center;
